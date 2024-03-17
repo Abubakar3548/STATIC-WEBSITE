@@ -1,0 +1,57 @@
+.bodystyle{ 
+    width: 900px;
+    margin: 0 auto;
+    overflow: auto;
+    font-size: 15px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.header{
+    font-family: cursive;
+    margin-left: 3rem;
+
+    
+}
+
+.head6{
+    background-color: aqua;
+    margin-left: 10rem;
+    border-radius: 1rem;
+    font-family: cursive;
+    border: none;
+    
+}
+.mainbody{
+    font-family: cursive;
+}
+.introduction{
+    font-family: cursive;
+    padding-bottom: 5rem;
+}
+.mine{
+    margin-bottom: 14rem;
+    border-radius: 1rem;
+    border-style: groove;
+}
+
+h2{
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.About{
+    font-family: cursive;
+}
+
+.Contact{
+   margin-left: 17.5rem;
+   font-family: cursive;
+   padding-right: 20px;
+
+}
+
+#Tel{
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
